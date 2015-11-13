@@ -1,3 +1,5 @@
+//For command line test
+//GitHub modification
 #include <stdio.h>
 
 int main(){
