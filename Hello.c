@@ -1,3 +1,6 @@
+// For command line test
+// Local repository modification
+
 #include <stdio.h>
 
 int main(){
