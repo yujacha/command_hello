@@ -1,6 +1,7 @@
 // For command line test
-// Local repository modification
-
+// Second : Local repository modification
+// First : GitHub modification
+>>>>>>> origin/master
 #include <stdio.h>
 
 int main(){
